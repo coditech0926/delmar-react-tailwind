@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159.165" height="159.165" viewBox="0 0 159.165 159.165">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop" width="159.165" height="159.165" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_570" data-name="Path 570" d="M70.028,5.7,9.587,41.754C4.3,44.988,0,52.547,0,58.642V148a11.3,11.3,0,0,0,11.369,11.17H147.795A11.306,11.306,0,0,0,159.167,148V58.642c0-6.145-4.374-13.782-9.72-16.968l-7.265-4.332L89.075,5.664A21.044,21.044,0,0,0,70.028,5.7" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.109" y1="0.889" x2="0.125" y2="0.889" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e30613"/>
+      <stop offset="0.273" stop-color="#d40c19"/>
+      <stop offset="0.685" stop-color="#c3131f"/>
+      <stop offset="1" stop-color="#be1622"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Path_571" data-name="Path 571" d="M8.526,58.523c0,3.115,2.811,7.852,5.569,9.388l59.8,36.458a14.232,14.232,0,0,0,11.375,0l59.8-36.455c2.757-1.539,5.569-6.276,5.569-9.391Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-0.031" y1="1.337" x2="-0.01" y2="1.337" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-4">
+      <path id="Path_572" data-name="Path 572" d="M73.894,12.793l-59.8,36.461c-2.757,1.532-5.569,6.273-5.569,9.388H150.638c0-3.115-2.811-7.855-5.569-9.391L85.27,12.8a14.249,14.249,0,0,0-11.375,0" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.031" y1="1.845" x2="-0.01" y2="1.845" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-0.06" y1="2.14" x2="-0.038" y2="2.14" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ebeeff"/>
+      <stop offset="0.342" stop-color="#e2e7ff"/>
+      <stop offset="0.894" stop-color="#cad7ff"/>
+      <stop offset="1" stop-color="#c5d4ff"/>
+    </linearGradient>
+    <clipPath id="clip-path-7">
+      <path id="Path_576" data-name="Path 576" d="M79.58,0,0,47.471V159.165H159.167V47.471Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" clip-path="url(#clip-path)">
+    <g id="Group_1208" data-name="Group 1208">
+      <g id="Group_1207" data-name="Group 1207" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_454" data-name="Rectangle 454" width="203.792" height="199.851" transform="translate(-50.954 21.624) rotate(-20)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_1210" data-name="Group 1210">
+      <g id="Group_1209" data-name="Group 1209" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle_455" data-name="Rectangle 455" width="149.914" height="91.948" transform="matrix(0.94, -0.342, 0.342, 0.94, -6.86, 64.024)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_1212" data-name="Group 1212">
+      <g id="Group_1211" data-name="Group 1211" clip-path="url(#clip-path-4)">
+        <rect id="Rectangle_456" data-name="Rectangle 456" width="149.914" height="91.948" transform="translate(-6.86 17.11) rotate(-20)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Group_1214" data-name="Group 1214">
+      <g id="Group_1213" data-name="Group 1213" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_457" data-name="Rectangle 457" width="203.792" height="199.851" transform="translate(-50.954 21.624) rotate(-20)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_1216" data-name="Group 1216">
+      <g id="Group_1215" data-name="Group 1215" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle_458" data-name="Rectangle 458" width="142.112" height="47.032" transform="translate(8.526 58.522)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_1218" data-name="Group 1218">
+      <g id="Group_1217" data-name="Group 1217" clip-path="url(#clip-path-7)">
+        <path id="Path_575" data-name="Path 575" d="M145.069,49.251,85.27,12.8a14.249,14.249,0,0,0-11.375,0l-59.8,36.458c-2.757,1.535-5.569,6.276-5.569,9.388H150.638c0-3.115-2.811-7.852-5.569-9.388" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
